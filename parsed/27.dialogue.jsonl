@@ -1,0 +1,478 @@
+{"ep": "27", "idx": 0, "start": "0:00:01.65", "end": "0:00:02.52", "style": "zhengwen", "actor": "NTP", "text": "凉宫阁下"}
+{"ep": "27", "idx": 1, "start": "0:00:02.90", "end": "0:00:04.71", "style": "zhengwen", "actor": "NTP", "text": "先行的侦察艇发来电文"}
+{"ep": "27", "idx": 2, "start": "0:00:05.14", "end": "0:00:07.04", "style": "zhengwen", "actor": "NTP", "text": "发现了敌人舰队的位置"}
+{"ep": "27", "idx": 3, "start": "0:00:07.39", "end": "0:00:10.07", "style": "zhengwen", "actor": "NTP", "text": "敌舰队  黄道8点20分"}
+{"ep": "27", "idx": 4, "start": "0:00:10.23", "end": "0:00:11.88", "style": "zhengwen", "actor": "NTP", "text": "距离6.3天文单位"}
+{"ep": "27", "idx": 5, "start": "0:00:10.23", "end": "0:00:11.88", "style": "zhushi", "actor": "NTP", "text": "（1天文单位=1.49597870*10^8）"}
+{"ep": "27", "idx": 6, "start": "0:00:12.38", "end": "0:00:16.17", "style": "zhengwen", "actor": "NTP", "text": "正在以约60%光速的速度接近本舰队"}
+{"ep": "27", "idx": 7, "start": "0:00:16.39", "end": "0:00:18.62", "style": "zhengwen", "actor": "NTP", "text": "总数约一万五千艘"}
+{"ep": "27", "idx": 8, "start": "0:00:19.48", "end": "0:00:20.42", "style": "zhengwen", "actor": "NTP", "text": "来了呢"}
+{"ep": "27", "idx": 9, "start": "0:00:20.61", "end": "0:00:22.16", "style": "zhengwen", "actor": "NTP", "text": "要歼灭敌人了哦！"}
+{"ep": "27", "idx": 10, "start": "0:00:22.35", "end": "0:00:23.88", "style": "zhengwen", "actor": "NTP", "text": "全舰队进入战斗配置！"}
+{"ep": "27", "idx": 11, "start": "0:00:25.91", "end": "0:00:26.77", "style": "zhengwen", "actor": "NTP", "text": "遵命  长官"}
+{"ep": "27", "idx": 12, "start": "0:00:27.14", "end": "0:00:28.29", "style": "zhengwen", "actor": "NTP", "text": "全舰队进入战斗配置"}
+{"ep": "27", "idx": 13, "start": "0:00:28.56", "end": "0:00:30.15", "style": "zhengwen", "actor": "NTP", "text": "反应引擎  调整至战斗出力状态"}
+{"ep": "27", "idx": 14, "start": "0:00:30.46", "end": "0:00:31.63", "style": "zhengwen", "actor": "NTP", "text": "推进器解除安全装置"}
+{"ep": "27", "idx": 15, "start": "0:00:31.72", "end": "0:00:32.50", "style": "zhengwen", "actor": "NTP", "text": "第一战速"}
+{"ep": "27", "idx": 16, "start": "0:00:32.90", "end": "0:00:33.46", "style": "zhengwen", "actor": "NTP", "text": "3"}
+{"ep": "27", "idx": 17, "start": "0:00:33.84", "end": "0:00:34.38", "style": "zhengwen", "actor": "NTP", "text": "2"}
+{"ep": "27", "idx": 18, "start": "0:00:34.61", "end": "0:00:35.10", "style": "zhengwen", "actor": "NTP", "text": "1"}
+{"ep": "27", "idx": 19, "start": "0:00:35.47", "end": "0:00:36.24", "style": "zhengwen", "actor": "NTP", "text": "点火！"}
+{"ep": "27", "idx": 20, "start": "0:00:36.90", "end": "0:00:38.76", "style": "zhengwen", "actor": "NTP", "text": "超  超重力鱼雷"}
+{"ep": "27", "idx": 21, "start": "0:00:39.15", "end": "0:00:41.50", "style": "zhengwen", "actor": "NTP", "text": "全发射管开始进行填装！"}
+{"ep": "27", "idx": 22, "start": "0:00:42.12", "end": "0:00:44.85", "style": "zhengwen", "actor": "NTP", "text": "还有…超级质…质子炮！"}
+{"ep": "27", "idx": 23, "start": "0:00:45.60", "end": "0:00:48.73", "style": "zhengwen", "actor": "NTP", "text": "那个…全…全炮门采取发射态势！"}
+{"ep": "27", "idx": 24, "start": "0:00:48.91", "end": "0:00:49.79", "style": "zhengwen", "actor": "NTP", "text": "电子战开始"}
+{"ep": "27", "idx": 25, "start": "0:00:50.27", "end": "0:00:51.65", "style": "zhengwen", "actor": "NTP", "text": "电磁加速器启动"}
+{"ep": "27", "idx": 26, "start": "0:00:51.89", "end": "0:00:54.71", "style": "zhengwen", "actor": "NTP", "text": "全ECM  ECCM启动"}
+{"ep": "27", "idx": 27, "start": "0:00:51.89", "end": "0:00:54.71", "style": "zhushi", "actor": "NTP", "text": "（ECM = Electronic CounterMeasure 电子干扰，\nECCM = Electronic Counter-CounterMeasures 电子反干扰)"}
+{"ep": "27", "idx": 28, "start": "0:00:54.94", "end": "0:00:57.58", "style": "zhengwen", "actor": "NTP", "text": "好！全舰队最大战速前进！"}
+{"ep": "27", "idx": 29, "start": "0:00:58.02", "end": "0:01:01.32", "style": "zhengwen", "actor": "NTP", "text": "喂  春日  你稍微退到后面一点比较好吧？"}
+{"ep": "27", "idx": 30, "start": "0:01:01.58", "end": "0:01:03.65", "style": "zhengwen", "actor": "NTP", "text": "你的舰队位置太靠前了哦"}
+{"ep": "27", "idx": 31, "start": "0:01:03.84", "end": "0:01:07.41", "style": "zhengwen", "actor": "NTP", "text": "我也想和敌人对射光束和飞弹啊！"}
+{"ep": "27", "idx": 32, "start": "0:01:07.69", "end": "0:01:09.04", "style": "zhengwen", "actor": "NTP", "text": "在将棋和国际象棋里面"}
+{"ep": "27", "idx": 33, "start": "0:01:09.31", "end": "0:01:11.90", "style": "zhengwen", "actor": "NTP", "text": "也不会让王将直接冲进敌阵里面吧？"}
+{"ep": "27", "idx": 34, "start": "0:01:09.31", "end": "0:01:11.90", "style": "zhushi", "actor": "NTP", "text": "（王将是将棋中相当于中国象棋“将”或“帅”的棋子，\n日语中有时也把国际象棋的王（king）称作王将）"}
+{"ep": "27", "idx": 35, "start": "0:01:12.40", "end": "0:01:13.24", "style": "zhengwen", "actor": "NTP", "text": "这…"}
+{"ep": "27", "idx": 36, "start": "0:01:14.22", "end": "0:01:15.69", "style": "zhengwen", "actor": "NTP", "text": "说得好象有道理呢～"}
+{"ep": "27", "idx": 37, "start": "0:01:15.91", "end": "0:01:17.92", "style": "zhengwen", "actor": "NTP", "text": "那么就交给你们想办法吧"}
+{"ep": "27", "idx": 38, "start": "0:01:18.27", "end": "0:01:21.59", "style": "zhengwen", "actor": "NTP", "text": "把敌人的主将找出来使劲炮击！"}
+{"ep": "27", "idx": 39, "start": "0:01:21.77", "end": "0:01:22.96", "style": "zhengwen", "actor": "NTP", "text": "一定要打赢哦"}
+{"ep": "27", "idx": 40, "start": "0:01:23.19", "end": "0:01:25.34", "style": "zhengwen", "actor": "NTP", "text": "把那帮卖弄小聪明的电脑研究社社员"}
+{"ep": "27", "idx": 41, "start": "0:01:25.53", "end": "0:01:28.29", "style": "zhengwen", "actor": "NTP", "text": "打成一群废铁！"}
+{"ep": "27", "idx": 42, "start": "0:01:31.29", "end": "0:01:33.99", "style": "zhengwen", "actor": "NTP", "text": "还是早点升白旗比较好吧？"}
+{"ep": "27", "idx": 43, "start": "0:01:34.98", "end": "0:01:37.12", "style": "zhengwen", "actor": "NTP", "text": "算了  这样倒是也不行"}
+{"ep": "27", "idx": 44, "start": "0:03:09.27", "end": "0:03:12.26", "style": "zhushi", "actor": "NTP", "text": "一星期前"}
+{"ep": "27", "idx": 45, "start": "0:03:10.33", "end": "0:03:11.49", "style": "zhengwen", "actor": "NTP", "text": "季节是秋天"}
+{"ep": "27", "idx": 46, "start": "0:03:11.97", "end": "0:03:14.72", "style": "zhengwen", "actor": "NTP", "text": "在文化祭总算平安结束之后的数天"}
+{"ep": "27", "idx": 47, "start": "0:03:15.01", "end": "0:03:17.02", "style": "zhengwen", "actor": "NTP", "text": "学校又恢复了宁静"}
+{"ep": "27", "idx": 48, "start": "0:03:17.34", "end": "0:03:20.66", "style": "zhengwen", "actor": "NTP", "text": "也就是说平淡的日常生活又开始了"}
+{"ep": "27", "idx": 49, "start": "0:03:20.98", "end": "0:03:23.11", "style": "zhengwen", "actor": "NTP", "text": "但是在这个SOS团基地的放学后时间"}
+{"ep": "27", "idx": 50, "start": "0:03:23.35", "end": "0:03:26.62", "style": "zhengwen", "actor": "NTP", "text": "是否能够说是「平淡的日常生活」这一点暂且保留意见"}
+{"ep": "27", "idx": 51, "start": "0:03:27.07", "end": "0:03:31.55", "style": "zhengwen", "actor": "NTP", "text": "和身为未来人  外星人和超能力者的这三个人淡然同处一室"}
+{"ep": "27", "idx": 52, "start": "0:03:31.89", "end": "0:03:34.55", "style": "zhengwen", "actor": "NTP", "text": "还能够保持着正常心态和客观性的我"}
+{"ep": "27", "idx": 53, "start": "0:03:34.84", "end": "0:03:36.70", "style": "zhengwen", "actor": "NTP", "text": "搞不好是个相当了不起的人呢"}
+{"ep": "27", "idx": 54, "start": "0:03:36.93", "end": "0:03:38.83", "style": "zhengwen", "actor": "NTP", "text": "说不定不知什么时候就会被星探相中呢"}
+{"ep": "27", "idx": 55, "start": "0:03:39.06", "end": "0:03:40.91", "style": "zhengwen", "actor": "NTP", "text": "看来你相当举棋不定呢"}
+{"ep": "27", "idx": 56, "start": "0:03:41.50", "end": "0:03:42.30", "style": "zhengwen", "actor": "NTP", "text": "没有啊"}
+{"ep": "27", "idx": 57, "start": "0:03:45.63", "end": "0:03:49.95", "style": "zhengwen", "actor": "NTP", "text": "只是在感叹自己最近竟能如此适应这个没道理的空间而已"}
+{"ep": "27", "idx": 58, "start": "0:03:50.31", "end": "0:03:53.00", "style": "zhengwen", "actor": "NTP", "text": "感觉差不多可以出来个人表扬下我了"}
+{"ep": "27", "idx": 59, "start": "0:03:53.43", "end": "0:03:57.03", "style": "zhengwen", "actor": "NTP", "text": "那么  要不要我献上赞赏的词句呢？"}
+{"ep": "27", "idx": 60, "start": "0:03:57.31", "end": "0:03:59.34", "style": "zhengwen", "actor": "NTP", "text": "被你表扬我也不会高兴啦"}
+{"ep": "27", "idx": 61, "start": "0:03:59.86", "end": "0:04:03.04", "style": "zhengwen", "actor": "NTP", "text": "只会觉得「会不会背后有什么阴谋啊」反而感到不安"}
+{"ep": "27", "idx": 62, "start": "0:04:03.64", "end": "0:04:04.86", "style": "zhengwen", "actor": "NTP", "text": "你还心有余悸呢"}
+{"ep": "27", "idx": 63, "start": "0:04:05.39", "end": "0:04:07.16", "style": "zhengwen", "actor": "NTP", "text": "抱歉让你们久等了"}
+{"ep": "27", "idx": 64, "start": "0:04:07.66", "end": "0:04:10.04", "style": "zhengwen", "actor": "NTP", "text": "我试着买了一种叫做「雁音」的茶"}
+{"ep": "27", "idx": 65, "start": "0:04:10.62", "end": "0:04:13.08", "style": "zhengwen", "actor": "NTP", "text": "虽然不知道能不能泡好…"}
+{"ep": "27", "idx": 66, "start": "0:04:13.32", "end": "0:04:13.93", "style": "zhengwen", "actor": "NTP", "text": "哪里哪里"}
+{"ep": "27", "idx": 67, "start": "0:04:14.25", "end": "0:04:16.18", "style": "zhengwen", "actor": "NTP", "text": "只要是朝比奈学姐的玉手端来的"}
+{"ep": "27", "idx": 68, "start": "0:04:16.42", "end": "0:04:19.47", "style": "zhengwen", "actor": "NTP", "text": "即使是自来水  也比阿尔卑斯山的雪融水要美味！"}
+{"ep": "27", "idx": 69, "start": "0:04:21.20", "end": "0:04:22.50", "style": "zhengwen", "actor": "NTP", "text": "请慢慢品尝吧"}
+{"ep": "27", "idx": 70, "start": "0:04:24.21", "end": "0:04:25.92", "style": "zhengwen", "actor": "NTP", "text": "说起来  凉宫同学呢？"}
+{"ep": "27", "idx": 71, "start": "0:04:26.16", "end": "0:04:27.34", "style": "zhengwen", "actor": "NTP", "text": "她当值做扫除"}
+{"ep": "27", "idx": 72, "start": "0:04:28.08", "end": "0:04:30.68", "style": "zhengwen", "actor": "NTP", "text": "只要她不在  这里就是和平的典范呢"}
+{"ep": "27", "idx": 73, "start": "0:04:34.85", "end": "0:04:36.38", "style": "zhengwen", "actor": "NTP", "text": "来了～我现在就来开门～"}
+{"ep": "27", "idx": 74, "start": "0:04:38.20", "end": "0:04:38.94", "style": "zhengwen", "actor": "NTP", "text": "…啊"}
+{"ep": "27", "idx": 75, "start": "0:04:39.93", "end": "0:04:41.93", "style": "zhengwen", "actor": "NTP", "text": "电脑研究社的社长同学…"}
+{"ep": "27", "idx": 76, "start": "0:04:42.15", "end": "0:04:44.79", "style": "zhengwen", "actor": "NTP", "text": "嗯？团长同学不在吗"}
+{"ep": "27", "idx": 77, "start": "0:04:46.06", "end": "0:04:47.32", "style": "zhengwen", "actor": "NTP", "text": "请问有什么事？"}
+{"ep": "27", "idx": 78, "start": "0:04:48.35", "end": "0:04:50.36", "style": "zhengwen", "actor": "NTP", "text": "首先我希望你们收下这个"}
+{"ep": "27", "idx": 79, "start": "0:04:52.66", "end": "0:04:54.88", "style": "zhengwen", "actor": "NTP", "text": "里面装的是游戏软件"}
+{"ep": "27", "idx": 80, "start": "0:04:55.09", "end": "0:04:58.20", "style": "zhengwen", "actor": "NTP", "text": "是我们所开发的原创游戏哦"}
+{"ep": "27", "idx": 81, "start": "0:04:58.75", "end": "0:05:00.91", "style": "zhengwen", "actor": "NTP", "text": "在之前的文化祭里面发表的"}
+{"ep": "27", "idx": 82, "start": "0:05:01.03", "end": "0:05:02.03", "style": "zhengwen", "actor": "NTP", "text": "没有看到吗？"}
+{"ep": "27", "idx": 83, "start": "0:05:02.49", "end": "0:05:03.72", "style": "zhengwen", "actor": "NTP", "text": "我不记得了"}
+{"ep": "27", "idx": 84, "start": "0:05:03.93", "end": "0:05:06.11", "style": "zhengwen", "actor": "NTP", "text": "文化祭里能够随时想起来的记忆"}
+{"ep": "27", "idx": 85, "start": "0:05:06.39", "end": "0:05:09.19", "style": "zhengwen", "actor": "NTP", "text": "只有朝比奈学姐的炒面咖啡厅用制服而已"}
+{"ep": "27", "idx": 86, "start": "0:05:10.10", "end": "0:05:13.25", "style": "zhengwen", "actor": "NTP", "text": "是吗…是不是展示地点太差了啊…"}
+{"ep": "27", "idx": 87, "start": "0:05:13.50", "end": "0:05:14.83", "style": "zhengwen", "actor": "NTP", "text": "那么  到底是什么事呢？"}
+{"ep": "27", "idx": 88, "start": "0:05:15.39", "end": "0:05:16.19", "style": "zhengwen", "actor": "NTP", "text": "对了！"}
+{"ep": "27", "idx": 89, "start": "0:05:16.72", "end": "0:05:19.38", "style": "zhengwen", "actor": "NTP", "text": "希望你们能和我们用这个游戏对决！"}
+{"ep": "27", "idx": 90, "start": "0:05:19.56", "end": "0:05:20.04", "style": "zhengwen", "actor": "NTP", "text": "啊？"}
+{"ep": "27", "idx": 91, "start": "0:05:20.16", "end": "0:05:22.75", "style": "zhengwen", "actor": "NTP", "text": "对决啊！用游戏对决！"}
+{"ep": "27", "idx": 92, "start": "0:05:23.20", "end": "0:05:25.90", "style": "zhengwen", "actor": "NTP", "text": "拿出真本事来对决！我想要和你们对决呀！"}
+{"ep": "27", "idx": 93, "start": "0:05:25.91", "end": "0:05:29.11", "style": "zhengwen", "actor": "NTP", "text": "拜托你  不要这么连着「对决对决」地叫"}
+{"ep": "27", "idx": 94, "start": "0:05:29.36", "end": "0:05:32.00", "style": "zhengwen", "actor": "NTP", "text": "如果春日的顺风耳听到了这个词的话…"}
+{"ep": "27", "idx": 95, "start": "0:05:33.56", "end": "0:05:34.30", "style": "zhengwen", "actor": "NTP", "text": "社长！"}
+{"ep": "27", "idx": 96, "start": "0:05:34.83", "end": "0:05:36.13", "style": "zhengwen", "actor": "NTP", "text": "你说要对决？"}
+{"ep": "27", "idx": 97, "start": "0:05:36.25", "end": "0:05:37.56", "style": "zhengwen", "actor": "NTP", "text": "你们是什么人？"}
+{"ep": "27", "idx": 98, "start": "0:05:37.84", "end": "0:05:42.92", "style": "zhengwen", "actor": "NTP", "text": "哼哼…就是想要妨碍我SOS团的秘密组织之类的吧！"}
+{"ep": "27", "idx": 99, "start": "0:05:43.10", "end": "0:05:44.46", "style": "zhengwen", "actor": "NTP", "text": "我是不会让你们得逞的！"}
+{"ep": "27", "idx": 100, "start": "0:05:44.78", "end": "0:05:47.51", "style": "zhengwen", "actor": "NTP", "text": "照亮人间一切黑暗  根绝世上所有邪恶"}
+{"ep": "27", "idx": 101, "start": "0:05:47.68", "end": "0:05:49.78", "style": "zhengwen", "actor": "NTP", "text": "这正是我们正义使者的使命！"}
+{"ep": "27", "idx": 102, "start": "0:05:49.96", "end": "0:05:50.76", "style": "zhengwen", "actor": "NTP", "text": "我说春日啊"}
+{"ep": "27", "idx": 103, "start": "0:05:51.09", "end": "0:05:52.99", "style": "zhengwen", "actor": "NTP", "text": "在把人踢飞之前先听听他说的话吧"}
+{"ep": "27", "idx": 104, "start": "0:05:53.17", "end": "0:05:55.10", "style": "zhengwen", "actor": "NTP", "text": "阿虚  所谓对决呢"}
+{"ep": "27", "idx": 105, "start": "0:05:55.31", "end": "0:05:57.43", "style": "zhengwen", "actor": "NTP", "text": "在说出「对决」二字的那一刻起  对决就开始了！"}
+{"ep": "27", "idx": 106, "start": "0:05:57.57", "end": "0:05:59.97", "style": "zhengwen", "actor": "NTP", "text": "败者不论说什么都只是借口！"}
+{"ep": "27", "idx": 107, "start": "0:06:00.60", "end": "0:06:01.22", "style": "zhengwen", "actor": "NTP", "text": "…呃"}
+{"ep": "27", "idx": 108, "start": "0:06:01.75", "end": "0:06:03.28", "style": "zhengwen", "actor": "NTP", "text": "什么嘛  这不是隔壁的吗"}
+{"ep": "27", "idx": 109, "start": "0:06:03.47", "end": "0:06:05.96", "style": "zhengwen", "actor": "NTP", "text": "为什么这个家伙会跑来找茬啊？"}
+{"ep": "27", "idx": 110, "start": "0:06:06.21", "end": "0:06:09.70", "style": "zhengwen", "actor": "NTP", "text": "所以叫你听啊  他刚才正要说明呢"}
+{"ep": "27", "idx": 111, "start": "0:06:09.86", "end": "0:06:11.11", "style": "zhengwen", "actor": "NTP", "text": "哦  是这样啊"}
+{"ep": "27", "idx": 112, "start": "0:06:11.28", "end": "0:06:14.20", "style": "zhengwen", "actor": "NTP", "text": "呜呜…好卑鄙啊  SOS团！"}
+{"ep": "27", "idx": 113, "start": "0:06:15.11", "end": "0:06:19.67", "style": "zhengwen", "actor": "NTP", "text": "总之  我们电脑研究社是来向SOS团挑战的！"}
+{"ep": "27", "idx": 114, "start": "0:06:19.82", "end": "0:06:21.12", "style": "zhengwen", "actor": "NTP", "text": "挑战是吧？喝！"}
+{"ep": "27", "idx": 115, "start": "0:06:22.02", "end": "0:06:22.96", "style": "zhengwen", "actor": "NTP", "text": "社长！"}
+{"ep": "27", "idx": 116, "start": "0:06:23.44", "end": "0:06:26.03", "style": "zhengwen", "actor": "NTP", "text": "好了好了  你也差不多该让他把话说下去了"}
+{"ep": "27", "idx": 117, "start": "0:06:26.56", "end": "0:06:28.39", "style": "zhengwen", "actor": "NTP", "text": "那么  也是说？"}
+{"ep": "27", "idx": 118, "start": "0:06:28.70", "end": "0:06:32.87", "style": "zhengwen", "actor": "NTP", "text": "用我们自制的游戏对决  如果我们赢了你就要还回来！"}
+{"ep": "27", "idx": 119, "start": "0:06:32.99", "end": "0:06:34.46", "style": "zhengwen", "actor": "NTP", "text": "还？还什么？"}
+{"ep": "27", "idx": 120, "start": "0:06:35.24", "end": "0:06:37.25", "style": "zhengwen", "actor": "NTP", "text": "不用的话就把电脑还给我啊！"}
+{"ep": "27", "idx": 121, "start": "0:06:37.71", "end": "0:06:39.57", "style": "zhengwen", "actor": "NTP", "text": "我在用啊"}
+{"ep": "27", "idx": 122, "start": "0:06:39.90", "end": "0:06:42.30", "style": "zhengwen", "actor": "NTP", "text": "前阵子的电影也是用这个来剪辑的"}
+{"ep": "27", "idx": 123, "start": "0:06:42.51", "end": "0:06:43.65", "style": "zhengwen", "actor": "NTP", "text": "虽说是我做的吧"}
+{"ep": "27", "idx": 124, "start": "0:06:43.89", "end": "0:06:45.32", "style": "zhengwen", "actor": "NTP", "text": "也做了主页"}
+{"ep": "27", "idx": 125, "start": "0:06:45.48", "end": "0:06:46.72", "style": "zhengwen", "actor": "NTP", "text": "举手  那个也是我做的"}
+{"ep": "27", "idx": 126, "start": "0:06:46.84", "end": "0:06:49.79", "style": "zhengwen", "actor": "NTP", "text": "那个主页不是几乎都不更新的吗！"}
+{"ep": "27", "idx": 127, "start": "0:06:50.22", "end": "0:06:53.11", "style": "zhengwen", "actor": "NTP", "text": "原来每天让计数器跳动的闲人就是他啊"}
+{"ep": "27", "idx": 128, "start": "0:06:53.43", "end": "0:06:54.93", "style": "zhengwen", "actor": "NTP", "text": "蟋蟀的事也是因为这个啊"}
+{"ep": "27", "idx": 129, "start": "0:06:55.22", "end": "0:06:59.50", "style": "zhengwen", "actor": "NTP", "text": "但是我向你要的时候  你不是说要送给我的吗"}
+{"ep": "27", "idx": 130, "start": "0:07:00.02", "end": "0:07:01.80", "style": "zhengwen", "actor": "NTP", "text": "阿虚  你也记得吧？"}
+{"ep": "27", "idx": 131, "start": "0:07:02.23", "end": "0:07:03.06", "style": "zhengwen", "actor": "NTP", "text": "是这样吗？"}
+{"ep": "27", "idx": 132, "start": "0:07:03.17", "end": "0:07:06.11", "style": "zhengwen", "actor": "NTP", "text": "那种交易是无效的！我严正抗议！"}
+{"ep": "27", "idx": 133, "start": "0:07:06.45", "end": "0:07:09.02", "style": "zhengwen", "actor": "NTP", "text": "由于电脑被抢走而造成的精神上的痛苦"}
+{"ep": "27", "idx": 134, "start": "0:07:09.30", "end": "0:07:11.20", "style": "zhengwen", "actor": "NTP", "text": "我绝对无法忘记！"}
+{"ep": "27", "idx": 135, "start": "0:07:11.60", "end": "0:07:13.22", "style": "zhengwen", "actor": "NTP", "text": "…不  我想要忘掉…"}
+{"ep": "27", "idx": 136, "start": "0:07:13.71", "end": "0:07:14.89", "style": "zhengwen", "actor": "NTP", "text": "我们都忘掉它吧…"}
+{"ep": "27", "idx": 137, "start": "0:07:15.73", "end": "0:07:18.64", "style": "zhengwen", "actor": "NTP", "text": "总之！因此！和我们战斗吧！"}
+{"ep": "27", "idx": 138, "start": "0:07:18.86", "end": "0:07:22.78", "style": "zhengwen", "actor": "NTP", "text": "那么好吧  既然你这么想和我们对决  那么我们就接受吧！"}
+{"ep": "27", "idx": 139, "start": "0:07:23.17", "end": "0:07:25.62", "style": "zhengwen", "actor": "NTP", "text": "那么你们那边要赌什么呢？"}
+{"ep": "27", "idx": 140, "start": "0:07:26.12", "end": "0:07:27.31", "style": "zhengwen", "actor": "NTP", "text": "问得好"}
+{"ep": "27", "idx": 141, "start": "0:07:28.16", "end": "0:07:32.62", "style": "zhengwen", "actor": "NTP", "text": "就送给你们人手一台新的电脑吧"}
+{"ep": "27", "idx": 142, "start": "0:07:32.77", "end": "0:07:33.66", "style": "zhengwen", "actor": "NTP", "text": "咦？可以吗？"}
+{"ep": "27", "idx": 143, "start": "0:07:33.81", "end": "0:07:34.66", "style": "zhengwen", "actor": "NTP", "text": "那当然"}
+{"ep": "27", "idx": 144, "start": "0:07:34.82", "end": "0:07:38.72", "style": "zhengwen", "actor": "NTP", "text": "真的吗？可不准你在中途说什么「还是不要了」哦"}
+{"ep": "27", "idx": 145, "start": "0:07:38.96", "end": "0:07:40.95", "style": "zhengwen", "actor": "NTP", "text": "不会的  我保证"}
+{"ep": "27", "idx": 146, "start": "0:07:41.03", "end": "0:07:42.61", "style": "zhengwen", "actor": "NTP", "text": "很有自信嘛"}
+{"ep": "27", "idx": 147, "start": "0:07:42.77", "end": "0:07:43.34", "style": "zhengwen", "actor": "NTP", "text": "好"}
+{"ep": "27", "idx": 148, "start": "0:07:43.99", "end": "0:07:47.00", "style": "zhengwen", "actor": "NTP", "text": "说起来你那里没有女性社员吧"}
+{"ep": "27", "idx": 149, "start": "0:07:47.38", "end": "0:07:51.01", "style": "zhengwen", "actor": "NTP", "text": "如果你们赢了的话  我就把她送给电脑研究社"}
+{"ep": "27", "idx": 150, "start": "0:07:51.15", "end": "0:07:51.62", "style": "zhengwen", "actor": "NTP", "text": "咦？"}
+{"ep": "27", "idx": 151, "start": "0:07:51.82", "end": "0:07:53.86", "style": "zhengwen", "actor": "NTP", "text": "有希肯定能马上就派上用场的哦"}
+{"ep": "27", "idx": 152, "start": "0:07:54.37", "end": "0:07:56.58", "style": "zhengwen", "actor": "NTP", "text": "既然你们赌4台电脑"}
+{"ep": "27", "idx": 153, "start": "0:07:56.68", "end": "0:07:58.74", "style": "zhengwen", "actor": "NTP", "text": "我们只赌1台的话就太占便宜了"}
+{"ep": "27", "idx": 154, "start": "0:07:58.94", "end": "0:08:03.12", "style": "zhengwen", "actor": "NTP", "text": "那个…4台电脑和长门之间性能差得也太大了"}
+{"ep": "27", "idx": 155, "start": "0:07:58.94", "end": "0:08:04.91", "style": "zhushi", "actor": "NTP", "text": "咦…不  那个  这样不太好…那个  她本人的意愿也…"}
+{"ep": "27", "idx": 156, "start": "0:08:03.50", "end": "0:08:04.91", "style": "zhengwen", "actor": "NTP", "text": "虽然你是不知道…"}
+{"ep": "27", "idx": 157, "start": "0:08:05.11", "end": "0:08:07.47", "style": "zhengwen", "actor": "NTP", "text": "怎么？你比较想要实玖瑠吗？"}
+{"ep": "27", "idx": 158, "start": "0:08:10.18", "end": "0:08:11.69", "style": "zhengwen", "actor": "NTP", "text": "你自己去做奖品"}
+{"ep": "27", "idx": 159, "start": "0:08:12.26", "end": "0:08:14.63", "style": "zhengwen", "actor": "NTP", "text": "要赌的话赌你自己不就好了"}
+{"ep": "27", "idx": 160, "start": "0:08:15.07", "end": "0:08:16.38", "style": "zhengwen", "actor": "NTP", "text": "别擅自决定别人的事！"}
+{"ep": "27", "idx": 161, "start": "0:08:16.73", "end": "0:08:18.04", "style": "zhengwen", "actor": "NTP", "text": "你在说什么啊！"}
+{"ep": "27", "idx": 162, "start": "0:08:18.23", "end": "0:08:23.24", "style": "zhengwen", "actor": "NTP", "text": "所谓SOS团的团长  那可是神圣不可侵犯的作为SOS团象征的存在！"}
+{"ep": "27", "idx": 163, "start": "0:08:23.64", "end": "0:08:27.76", "style": "zhengwen", "actor": "NTP", "text": "除了我所认同的人  我是不会把这个称号让给任何人的！"}
+{"ep": "27", "idx": 164, "start": "0:08:28.02", "end": "0:08:30.67", "style": "zhengwen", "actor": "NTP", "text": "你打算毕业之后还要据团为王吗?"}
+{"ep": "27", "idx": 165, "start": "0:08:30.93", "end": "0:08:32.27", "style": "zhengwen", "actor": "NTP", "text": "喂！你想要哪个？"}
+{"ep": "27", "idx": 166, "start": "0:08:32.55", "end": "0:08:34.22", "style": "zhengwen", "actor": "NTP", "text": "呃…那个…"}
+{"ep": "27", "idx": 167, "start": "0:08:34.61", "end": "0:08:38.29", "style": "zhengwen", "actor": "NTP", "text": "如果你无论如何都想要的话…算了  选我也可以"}
+{"ep": "27", "idx": 168, "start": "0:08:38.39", "end": "0:08:40.64", "style": "zhengwen", "actor": "NTP", "text": "哇——！这件事请让我坚决谢绝…"}
+{"ep": "27", "idx": 169, "start": "0:08:42.05", "end": "0:08:46.14", "style": "zhengwen", "actor": "NTP", "text": "游戏内容是5对5的在线宇宙模拟战斗"}
+{"ep": "27", "idx": 170, "start": "0:08:46.55", "end": "0:08:49.27", "style": "zhengwen", "actor": "NTP", "text": "对战开始的时间是一周之后的下午4点"}
+{"ep": "27", "idx": 171, "start": "0:08:49.52", "end": "0:08:51.46", "style": "zhengwen", "actor": "NTP", "text": "在那之前就好好地锻炼一下吧"}
+{"ep": "27", "idx": 172, "start": "0:08:51.67", "end": "0:08:53.90", "style": "zhengwen", "actor": "NTP", "text": "如果对手太弱的话可就太令人失望了"}
+{"ep": "27", "idx": 173, "start": "0:08:54.22", "end": "0:08:55.83", "style": "zhengwen", "actor": "NTP", "text": "已经有必胜的自信了啊"}
+{"ep": "27", "idx": 174, "start": "0:08:56.05", "end": "0:08:57.19", "style": "zhengwen", "actor": "NTP", "text": "竟然提前把奖品送过来"}
+{"ep": "27", "idx": 175, "start": "0:08:57.24", "end": "0:08:58.73", "style": "zhengwen", "actor": "NTP", "text": "你还挺大方嘛"}
+{"ep": "27", "idx": 176, "start": "0:08:58.89", "end": "0:09:02.90", "style": "zhengwen", "actor": "NTP", "text": "嗯嗯  果然团员应该人手一台电脑呢！"}
+{"ep": "27", "idx": 177, "start": "0:09:03.20", "end": "0:09:04.86", "style": "zhengwen", "actor": "NTP", "text": "我们这边也很有必胜信心吗！"}
+{"ep": "27", "idx": 178, "start": "0:09:06.81", "end": "0:09:08.01", "style": "zhengwen", "actor": "NTP", "text": "关于这次的对决"}
+{"ep": "27", "idx": 179, "start": "0:09:08.38", "end": "0:09:10.42", "style": "zhengwen", "actor": "NTP", "text": "总之不许作弊"}
+{"ep": "27", "idx": 180, "start": "0:09:10.63", "end": "0:09:11.41", "style": "zhengwen", "actor": "NTP", "text": "作弊？"}
+{"ep": "27", "idx": 181, "start": "0:09:11.76", "end": "0:09:15.12", "style": "zhengwen", "actor": "NTP", "text": "只有这次  不管是外星式还是未来式"}
+{"ep": "27", "idx": 182, "start": "0:09:15.39", "end": "0:09:18.06", "style": "zhengwen", "actor": "NTP", "text": "或者超能力式的各种招式都要全部封印起来"}
+{"ep": "27", "idx": 183, "start": "0:09:18.36", "end": "0:09:21.45", "style": "zhengwen", "actor": "NTP", "text": "我们认真地战斗  并迎接正常的结果"}
+{"ep": "27", "idx": 184, "start": "0:09:21.68", "end": "0:09:22.69", "style": "zhengwen", "actor": "NTP", "text": "这样才是最好的"}
+{"ep": "27", "idx": 185, "start": "0:09:23.04", "end": "0:09:25.15", "style": "zhengwen", "actor": "NTP", "text": "你是说我们输了也可以？"}
+{"ep": "27", "idx": 186, "start": "0:09:25.39", "end": "0:09:29.14", "style": "zhengwen", "actor": "NTP", "text": "对啊  即使输了  失去的也只是那台赃物电脑"}
+{"ep": "27", "idx": 187, "start": "0:09:29.44", "end": "0:09:30.99", "style": "zhengwen", "actor": "NTP", "text": "对于我们来说并没有什么值得困扰的"}
+{"ep": "27", "idx": 188, "start": "0:09:31.51", "end": "0:09:36.12", "style": "zhengwen", "actor": "NTP", "text": "虽说在归还之前\n有必要把朝比奈照片集拷贝到别的什么地方…"}
+{"ep": "27", "idx": 189, "start": "0:09:37.16", "end": "0:09:38.88", "style": "zhengwen", "actor": "NTP", "text": "我说的并不是电脑的事"}
+{"ep": "27", "idx": 190, "start": "0:09:39.33", "end": "0:09:42.73", "style": "zhengwen", "actor": "NTP", "text": "凉宫同学并不喜欢在什么事情上失败"}
+{"ep": "27", "idx": 191, "start": "0:09:43.07", "end": "0:09:44.37", "style": "zhushi", "actor": "NTP", "text": "听好  实玖瑠"}
+{"ep": "27", "idx": 192, "start": "0:09:43.14", "end": "0:09:44.45", "style": "zhengwen", "actor": "NTP", "text": "如果感觉到会失败"}
+{"ep": "27", "idx": 193, "start": "0:09:44.70", "end": "0:09:46.93", "style": "zhushi", "actor": "NTP", "text": "明天开始就要进行地狱特训了！"}
+{"ep": "27", "idx": 194, "start": "0:09:44.71", "end": "0:09:46.32", "style": "zhengwen", "actor": "NTP", "text": "她恐怕又会产生封闭空间"}
+{"ep": "27", "idx": 195, "start": "0:09:46.56", "end": "0:09:49.38", "style": "zhengwen", "actor": "NTP", "text": "不为人知地让你也知道的「那个」大肆破坏"}
+{"ep": "27", "idx": 196, "start": "0:09:47.24", "end": "0:09:50.43", "style": "zhushi", "actor": "NTP", "text": "你要跟上我们的训练进度哦！"}
+{"ep": "27", "idx": 197, "start": "0:09:49.58", "end": "0:09:50.64", "style": "zhengwen", "actor": "NTP", "text": "你觉得这样也无所谓吗？"}
+{"ep": "27", "idx": 198, "start": "0:09:51.00", "end": "0:09:52.08", "style": "zhengwen", "actor": "NTP", "text": "无所谓"}
+{"ep": "27", "idx": 199, "start": "0:09:52.61", "end": "0:09:55.30", "style": "zhengwen", "actor": "NTP", "text": "就算是那家伙  也差不多该有点长进了"}
+{"ep": "27", "idx": 200, "start": "0:09:57.29", "end": "0:09:58.63", "style": "zhengwen", "actor": "NTP", "text": "笑什么啊！令人恶心"}
+{"ep": "27", "idx": 201, "start": "0:09:58.85", "end": "0:10:01.33", "style": "zhengwen", "actor": "NTP", "text": "不  只是我很羡慕你呢"}
+{"ep": "27", "idx": 202, "start": "0:10:01.72", "end": "0:10:06.21", "style": "zhengwen", "actor": "NTP", "text": "很羡慕你和凉宫同学之间的那层肉眼看不到的信赖关系"}
+{"ep": "27", "idx": 203, "start": "0:10:06.82", "end": "0:10:08.63", "style": "zhengwen", "actor": "NTP", "text": "你在说什么啊  我完全听不懂"}
+{"ep": "27", "idx": 204, "start": "0:10:08.95", "end": "0:10:12.04", "style": "zhengwen", "actor": "NTP", "text": "比如说如果一周后那场游戏我们输了"}
+{"ep": "27", "idx": 205, "start": "0:10:12.74", "end": "0:10:18.34", "style": "zhengwen", "actor": "NTP", "text": "但是你相信那个时候凉宫同学不会产生封闭空间"}
+{"ep": "27", "idx": 206, "start": "0:10:18.75", "end": "0:10:20.79", "style": "zhengwen", "actor": "NTP", "text": "这就是所谓的「信赖」"}
+{"ep": "27", "idx": 207, "start": "0:10:21.36", "end": "0:10:25.98", "style": "zhengwen", "actor": "NTP", "text": "另外  凉宫同学也相信只要有你在就一定能够取得胜利"}
+{"ep": "27", "idx": 208, "start": "0:10:26.45", "end": "0:10:28.00", "style": "zhengwen", "actor": "NTP", "text": "这也是「信赖」"}
+{"ep": "27", "idx": 209, "start": "0:10:28.40", "end": "0:10:30.78", "style": "zhengwen", "actor": "NTP", "text": "她会说出把团员拿去作赌注的话"}
+{"ep": "27", "idx": 210, "start": "0:10:31.13", "end": "0:10:33.46", "style": "zhengwen", "actor": "NTP", "text": "也是因为确信自己会获胜的"}
+{"ep": "27", "idx": 211, "start": "0:10:34.30", "end": "0:10:36.57", "style": "zhushi", "actor": "NTP", "text": "当时他脸都青了"}
+{"ep": "27", "idx": 212, "start": "0:10:34.30", "end": "0:10:36.57", "style": "zhengwen", "actor": "NTP", "text": "虽然两个人都不会说出口"}
+{"ep": "27", "idx": 213, "start": "0:10:37.16", "end": "0:10:42.35", "style": "zhengwen", "actor": "NTP", "text": "但是你们两人之间被可说是理想状态的信赖感连接着"}
+{"ep": "27", "idx": 214, "start": "0:10:48.11", "end": "0:10:49.83", "style": "zhengwen", "actor": "NTP", "text": "The Day of Sagittarius\n射手座之日"}
+{"ep": "27", "idx": 215, "start": "0:10:49.97", "end": "0:10:50.78", "style": "zhengwen", "actor": "NTP", "text": "是三代吗"}
+{"ep": "27", "idx": 216, "start": "0:10:51.04", "end": "0:10:53.57", "style": "zhengwen", "actor": "NTP", "text": "既然是三代  那么也就是说还有一代和二代了？"}
+{"ep": "27", "idx": 217, "start": "0:10:53.79", "end": "0:10:57.87", "style": "zhengwen", "actor": "NTP", "text": "看来是个觉得感觉不错就写上去结果反而不知所云的名字"}
+{"ep": "27", "idx": 218, "start": "0:10:58.52", "end": "0:11:01.37", "style": "zhengwen", "actor": "NTP", "text": "如果这么说的话「SOS团」又怎么样啊？"}
+{"ep": "27", "idx": 219, "start": "0:11:02.33", "end": "0:11:04.28", "style": "zhengwen", "actor": "NTP", "text": "游戏本身倒是很单纯"}
+{"ep": "27", "idx": 220, "start": "0:11:05.21", "end": "0:11:08.92", "style": "zhengwen", "actor": "NTP", "text": "五个人都各自被给予了一万五千艘的宇宙舰队"}
+{"ep": "27", "idx": 221, "start": "0:11:09.20", "end": "0:11:11.35", "style": "zhengwen", "actor": "NTP", "text": "通过每个人的电脑进行指挥"}
+{"ep": "27", "idx": 222, "start": "0:11:11.90", "end": "0:11:16.35", "style": "zhengwen", "actor": "NTP", "text": "将敌人全灭或者消灭敌人的主将就胜利了"}
+{"ep": "27", "idx": 223, "start": "0:11:17.44", "end": "0:11:19.00", "style": "zhengwen", "actor": "NTP", "text": "这个发亮的地方是什么？"}
+{"ep": "27", "idx": 224, "start": "0:11:19.38", "end": "0:11:20.85", "style": "zhengwen", "actor": "NTP", "text": "这是侦查范围"}
+{"ep": "27", "idx": 225, "start": "0:11:21.38", "end": "0:11:24.61", "style": "zhengwen", "actor": "NTP", "text": "除了这个范围里面  是看不到敌人的位置和地图上的障碍物的"}
+{"ep": "27", "idx": 226, "start": "0:11:25.15", "end": "0:11:29.39", "style": "zhengwen", "actor": "NTP", "text": "如果不派出侦察艇扩大这个范围  就无法和敌人交战"}
+{"ep": "27", "idx": 227, "start": "0:11:30.16", "end": "0:11:35.26", "style": "zhengwen", "actor": "NTP", "text": "看起来迅速确定敌人的位置并预测其行动是获胜的关键"}
+{"ep": "27", "idx": 228, "start": "0:11:35.61", "end": "0:11:38.63", "style": "zhengwen", "actor": "NTP", "text": "那个…也就是说一开始的时候看不见对手？"}
+{"ep": "27", "idx": 229, "start": "0:11:39.72", "end": "0:11:41.28", "style": "zhengwen", "actor": "NTP", "text": "阿虚  那个…"}
+{"ep": "27", "idx": 230, "start": "0:11:41.85", "end": "0:11:45.05", "style": "zhengwen", "actor": "NTP", "text": "我不擅长这些  所以不大明白…"}
+{"ep": "27", "idx": 231, "start": "0:11:45.35", "end": "0:11:49.46", "style": "zhengwen", "actor": "NTP", "text": "没关系的  这只是个游戏  随便玩玩就好了"}
+{"ep": "27", "idx": 232, "start": "0:11:49.64", "end": "0:11:51.34", "style": "zhengwen", "actor": "NTP", "text": "绝对不能随随便便！"}
+{"ep": "27", "idx": 233, "start": "0:11:51.52", "end": "0:11:54.51", "style": "zhengwen", "actor": "NTP", "text": "我们要把电脑研究社打到体无完肤！"}
+{"ep": "27", "idx": 234, "start": "0:11:54.70", "end": "0:11:56.31", "style": "zhengwen", "actor": "NTP", "text": "现在开始要充分地练习！"}
+{"ep": "27", "idx": 235, "start": "0:11:56.50", "end": "0:11:58.02", "style": "zhengwen", "actor": "NTP", "text": "主将当然是我了"}
+{"ep": "27", "idx": 236, "start": "0:11:58.22", "end": "0:12:00.31", "style": "zhengwen", "actor": "NTP", "text": "好了！全员进入战斗配置！"}
+{"ep": "27", "idx": 237, "start": "0:12:01.31", "end": "0:12:03.36", "style": "zhengwen", "actor": "NTP", "text": "如果是长门的话倒是应该能够英勇作战的…"}
+{"ep": "27", "idx": 238, "start": "0:12:04.14", "end": "0:12:04.93", "style": "zhengwen", "actor": "NTP", "text": "收回前言"}
+{"ep": "27", "idx": 239, "start": "0:12:05.58", "end": "0:12:06.24", "style": "zhengwen", "actor": "NTP", "text": "这不行啊"}
+{"ep": "27", "idx": 240, "start": "0:12:06.54", "end": "0:12:08.28", "style": "zhushi", "actor": "NTP", "text": "训练  第一日"}
+{"ep": "27", "idx": 241, "start": "0:12:06.76", "end": "0:12:08.22", "style": "zhengwen", "actor": "NTP", "text": "全军突击！"}
+{"ep": "27", "idx": 242, "start": "0:12:12.69", "end": "0:12:14.01", "style": "zhushi", "actor": "NTP", "text": "训练  第二日"}
+{"ep": "27", "idx": 243, "start": "0:12:12.91", "end": "0:12:14.13", "style": "zhengwen", "actor": "NTP", "text": "全军突击！"}
+{"ep": "27", "idx": 244, "start": "0:12:17.98", "end": "0:12:19.29", "style": "zhushi", "actor": "NTP", "text": "训练  第三日"}
+{"ep": "27", "idx": 245, "start": "0:12:18.22", "end": "0:12:19.34", "style": "zhengwen", "actor": "NTP", "text": "全军突击！"}
+{"ep": "27", "idx": 246, "start": "0:12:21.36", "end": "0:12:22.58", "style": "zhushi", "actor": "NTP", "text": "训练  第四日"}
+{"ep": "27", "idx": 247, "start": "0:12:21.60", "end": "0:12:22.66", "style": "zhengwen", "actor": "NTP", "text": "全军突击！"}
+{"ep": "27", "idx": 248, "start": "0:12:24.20", "end": "0:12:26.18", "style": "zhushi", "actor": "NTP", "text": "训练  第五日"}
+{"ep": "27", "idx": 249, "start": "0:12:24.61", "end": "0:12:26.15", "style": "zhengwen", "actor": "NTP", "text": "啊——！又被打败了！"}
+{"ep": "27", "idx": 250, "start": "0:12:26.38", "end": "0:12:28.78", "style": "zhengwen", "actor": "NTP", "text": "阿虚  这个游戏真是令人不爽！"}
+{"ep": "27", "idx": 251, "start": "0:12:29.26", "end": "0:12:30.71", "style": "zhengwen", "actor": "NTP", "text": "那是因为你只会突击"}
+{"ep": "27", "idx": 252, "start": "0:12:31.01", "end": "0:12:32.88", "style": "zhengwen", "actor": "NTP", "text": "战术从根本上讲就是错的"}
+{"ep": "27", "idx": 253, "start": "0:12:33.03", "end": "0:12:35.25", "style": "zhengwen", "actor": "NTP", "text": "真是麻烦死了！"}
+{"ep": "27", "idx": 254, "start": "0:12:35.57", "end": "0:12:38.16", "style": "zhengwen", "actor": "NTP", "text": "我喜欢更加简单易懂一点的！"}
+{"ep": "27", "idx": 255, "start": "0:12:41.37", "end": "0:12:43.39", "style": "zhengwen", "actor": "NTP", "text": "虽然可能是错觉  你好像很乐在其中呢？"}
+{"ep": "27", "idx": 256, "start": "0:12:44.67", "end": "0:12:45.86", "style": "zhengwen", "actor": "NTP", "text": "我先说好了"}
+{"ep": "27", "idx": 257, "start": "0:12:46.17", "end": "0:12:48.14", "style": "zhengwen", "actor": "NTP", "text": "这次可不能用作弊的招数哦"}
+{"ep": "27", "idx": 258, "start": "0:12:52.36", "end": "0:12:54.35", "style": "zhushi", "actor": "NTP", "text": "决战当天"}
+{"ep": "27", "idx": 259, "start": "0:12:54.62", "end": "0:12:57.83", "style": "zhengwen", "actor": "NTP", "text": "今天天气晴朗风平浪静"}
+{"ep": "27", "idx": 260, "start": "0:12:54.86", "end": "0:12:58.35", "style": "zhushi", "actor": "NTP", "text": "SOS团宇宙军  春日☆阁下☆舰队"}
+{"ep": "27", "idx": 261, "start": "0:12:58.00", "end": "0:13:00.27", "style": "zhengwen", "actor": "NTP", "text": "公国的兴衰就要看这一战了！"}
+{"ep": "27", "idx": 262, "start": "0:13:00.53", "end": "0:13:02.65", "style": "zhengwen", "actor": "NTP", "text": "这场战斗只不过是个开始"}
+{"ep": "27", "idx": 263, "start": "0:13:03.11", "end": "0:13:04.82", "style": "zhengwen", "actor": "NTP", "text": "让我们消灭所有妨碍的人"}
+{"ep": "27", "idx": 264, "start": "0:13:03.36", "end": "0:13:06.38", "style": "zhushi", "actor": "NTP", "text": "同  古泉舰队"}
+{"ep": "27", "idx": 265, "start": "0:13:04.89", "end": "0:13:08.57", "style": "zhengwen", "actor": "NTP", "text": "然后把SOS的名字传到宇宙的彼端去吧！"}
+{"ep": "27", "idx": 266, "start": "0:13:07.84", "end": "0:13:10.84", "style": "zhushi", "actor": "NTP", "text": "同  实玖瑠舰队"}
+{"ep": "27", "idx": 267, "start": "0:13:08.74", "end": "0:13:10.77", "style": "zhengwen", "actor": "NTP", "text": "然后我打算知会教育委员会之后"}
+{"ep": "27", "idx": 268, "start": "0:13:10.91", "end": "0:13:14.18", "style": "zhengwen", "actor": "NTP", "text": "在所有的公立学校中设立SOS团支部！"}
+{"ep": "27", "idx": 269, "start": "0:13:11.80", "end": "0:13:14.84", "style": "zhushi", "actor": "NTP", "text": "同  有希舰队"}
+{"ep": "27", "idx": 270, "start": "0:13:14.38", "end": "0:13:15.51", "style": "zhengwen", "actor": "NTP", "text": "虽然不能说「我们的胜利是肯定的」"}
+{"ep": "27", "idx": 271, "start": "0:13:15.60", "end": "0:13:16.94", "style": "zhengwen", "actor": "NTP", "text": "但谁要是放水的话就按军法从严处理！"}
+{"ep": "27", "idx": 272, "start": "0:13:15.79", "end": "0:13:18.79", "style": "zhushi", "actor": "NTP", "text": "同  阿虚舰队"}
+{"ep": "27", "idx": 273, "start": "0:13:17.24", "end": "0:13:19.23", "style": "zhengwen", "actor": "NTP", "text": "要彻底地击垮他们！"}
+{"ep": "27", "idx": 274, "start": "0:13:20.37", "end": "0:13:22.59", "style": "zhengwen", "actor": "NTP", "text": "你这自信的原材料是什么啊？"}
+{"ep": "27", "idx": 275, "start": "0:13:22.88", "end": "0:13:25.39", "style": "zhengwen", "actor": "NTP", "text": "能不能分我两毫克左右？"}
+{"ep": "27", "idx": 276, "start": "0:13:25.78", "end": "0:13:28.21", "style": "zhengwen", "actor": "NTP", "text": "是吗？那就稍微输入给你一点吧"}
+{"ep": "27", "idx": 277, "start": "0:13:32.64", "end": "0:13:34.36", "style": "zhengwen", "actor": "NTP", "text": "怎么样？有点作用吧？"}
+{"ep": "27", "idx": 278, "start": "0:13:34.48", "end": "0:13:36.51", "style": "zhengwen", "actor": "NTP", "text": "这种大眼瞪小眼能有什么用啊"}
+{"ep": "27", "idx": 279, "start": "0:13:37.05", "end": "0:13:40.02", "style": "zhengwen", "actor": "NTP", "text": "我这不是把分给你的能量通过眼光注入你身体内了吗！"}
+{"ep": "27", "idx": 280, "start": "0:13:40.28", "end": "0:13:42.00", "style": "zhengwen", "actor": "NTP", "text": "能让身体变得热乎乎的"}
+{"ep": "27", "idx": 281, "start": "0:13:42.15", "end": "0:13:43.89", "style": "zhengwen", "actor": "NTP", "text": "还能促进汗腺代谢"}
+{"ep": "27", "idx": 282, "start": "0:13:44.04", "end": "0:13:45.91", "style": "zhengwen", "actor": "NTP", "text": "你也感觉到了吧？"}
+{"ep": "27", "idx": 283, "start": "0:13:46.25", "end": "0:13:48.35", "style": "zhengwen", "actor": "NTP", "text": "不  我只感到了身体有危机"}
+{"ep": "27", "idx": 284, "start": "0:13:48.85", "end": "0:13:50.19", "style": "zhengwen", "actor": "NTP", "text": "马上就要开始了"}
+{"ep": "27", "idx": 285, "start": "0:14:02.16", "end": "0:14:03.65", "style": "zhengwen", "actor": "NTP", "text": "全军前进！"}
+{"ep": "27", "idx": 286, "start": "0:14:02.59", "end": "0:14:04.06", "style": "zhushi", "actor": "NTP", "text": "一六〇〇时刻  开战"}
+{"ep": "27", "idx": 287, "start": "0:14:04.64", "end": "0:14:06.50", "style": "zhengwen", "actor": "NTP", "text": "于是游戏就开始了"}
+{"ep": "27", "idx": 288, "start": "0:14:06.85", "end": "0:14:10.10", "style": "zhengwen", "actor": "NTP", "text": "虽然刚刚才发现了敌舰队"}
+{"ep": "27", "idx": 289, "start": "0:14:10.55", "end": "0:14:14.31", "style": "zhengwen", "actor": "NTP", "text": "但是由于长门的努力  总算已经掌握到一部分敌人的动向了"}
+{"ep": "27", "idx": 290, "start": "0:14:14.62", "end": "0:14:16.43", "style": "zhengwen", "actor": "NTP", "text": "一面侦查一面战斗"}
+{"ep": "27", "idx": 291, "start": "0:14:16.69", "end": "0:14:18.44", "style": "zhengwen", "actor": "NTP", "text": "真是奋勇无双的作战指挥啊"}
+{"ep": "27", "idx": 292, "start": "0:14:19.10", "end": "0:14:22.92", "style": "zhengwen", "actor": "NTP", "text": "游戏白痴的朝比奈学姐和只会突击的春日完全派不上用场"}
+{"ep": "27", "idx": 293, "start": "0:14:23.34", "end": "0:14:24.61", "style": "zhengwen", "actor": "NTP", "text": "现在已经是5对3了"}
+{"ep": "27", "idx": 294, "start": "0:14:24.81", "end": "0:14:26.07", "style": "zhengwen", "actor": "NTP", "text": "真是个完美的劣势啊"}
+{"ep": "27", "idx": 295, "start": "0:14:27.15", "end": "0:14:30.49", "style": "zhengwen", "actor": "NTP", "text": "敌人好像想要用鹤翼阵形诱使我们深入"}
+{"ep": "27", "idx": 296, "start": "0:14:31.06", "end": "0:14:33.01", "style": "zhengwen", "actor": "NTP", "text": "我想彻底进行防御会比较好"}
+{"ep": "27", "idx": 297, "start": "0:14:33.55", "end": "0:14:34.97", "style": "zhengwen", "actor": "NTP", "text": "虽然你这么说啊"}
+{"ep": "27", "idx": 298, "start": "0:14:35.36", "end": "0:14:37.58", "style": "zhengwen", "actor": "NTP", "text": "我倒是无所谓  春日会怎么说…"}
+{"ep": "27", "idx": 299, "start": "0:14:39.37", "end": "0:14:40.10", "style": "zhengwen", "actor": "NTP", "text": "什么？！"}
+{"ep": "27", "idx": 300, "start": "0:14:40.45", "end": "0:14:42.04", "style": "zhengwen", "actor": "NTP", "text": "来自其他敌人的炮击？"}
+{"ep": "27", "idx": 301, "start": "0:14:42.26", "end": "0:14:43.67", "style": "zhengwen", "actor": "NTP", "text": "他们是什么时候接近的？"}
+{"ep": "27", "idx": 302, "start": "0:14:44.28", "end": "0:14:45.77", "style": "zhengwen", "actor": "NTP", "text": "哎呀  我这里也是"}
+{"ep": "27", "idx": 303, "start": "0:14:46.18", "end": "0:14:48.38", "style": "zhengwen", "actor": "NTP", "text": "他们是怎么掌握我们的位置的？"}
+{"ep": "27", "idx": 304, "start": "0:14:48.52", "end": "0:14:51.24", "style": "zhengwen", "actor": "NTP", "text": "你们在做什么啊！快点反击！"}
+{"ep": "27", "idx": 305, "start": "0:14:51.57", "end": "0:14:53.03", "style": "zhengwen", "actor": "NTP", "text": "你不说我也会做的！"}
+{"ep": "27", "idx": 306, "start": "0:14:53.50", "end": "0:14:55.32", "style": "zhengwen", "actor": "NTP", "text": "右舷方向反转90度！"}
+{"ep": "27", "idx": 307, "start": "0:14:55.51", "end": "0:14:56.66", "style": "zhengwen", "actor": "NTP", "text": "打开所有炮门！"}
+{"ep": "27", "idx": 308, "start": "0:14:56.94", "end": "0:14:58.97", "style": "zhengwen", "actor": "NTP", "text": "你很有干劲嘛"}
+{"ep": "27", "idx": 309, "start": "0:14:59.44", "end": "0:15:00.92", "style": "zhengwen", "actor": "NTP", "text": "目标是敌人舰队！"}
+{"ep": "27", "idx": 310, "start": "0:15:01.36", "end": "0:15:02.64", "style": "zhengwen", "actor": "NTP", "text": "所有光束炮发射！"}
+{"ep": "27", "idx": 311, "start": "0:15:03.17", "end": "0:15:04.02", "style": "zhengwen", "actor": "NTP", "text": "…啥？！"}
+{"ep": "27", "idx": 312, "start": "0:15:05.15", "end": "0:15:06.39", "style": "zhengwen", "actor": "NTP", "text": "可恶  被逃掉了"}
+{"ep": "27", "idx": 313, "start": "0:15:06.62", "end": "0:15:07.56", "style": "zhengwen", "actor": "NTP", "text": "我这里也是"}
+{"ep": "27", "idx": 314, "start": "0:15:07.84", "end": "0:15:10.50", "style": "zhengwen", "actor": "NTP", "text": "攻击之后在被攻击之前就藏起来了"}
+{"ep": "27", "idx": 315, "start": "0:15:11.13", "end": "0:15:12.66", "style": "zhengwen", "actor": "NTP", "text": "一击脱离作战吗"}
+{"ep": "27", "idx": 316, "start": "0:15:13.02", "end": "0:15:14.25", "style": "zhengwen", "actor": "NTP", "text": "哦  又来了"}
+{"ep": "27", "idx": 317, "start": "0:15:14.50", "end": "0:15:15.12", "style": "zhengwen", "actor": "NTP", "text": "是从侧面"}
+{"ep": "27", "idx": 318, "start": "0:15:15.35", "end": "0:15:16.51", "style": "zhengwen", "actor": "NTP", "text": "切  真可恶！"}
+{"ep": "27", "idx": 319, "start": "0:15:16.75", "end": "0:15:19.60", "style": "zhengwen", "actor": "NTP", "text": "你们在磨蹭什么啊！敌人要逃跑了！"}
+{"ep": "27", "idx": 320, "start": "0:15:19.82", "end": "0:15:21.40", "style": "zhengwen", "actor": "NTP", "text": "我知道  但是也没办法啊！"}
+{"ep": "27", "idx": 321, "start": "0:15:21.73", "end": "0:15:23.73", "style": "zhengwen", "actor": "NTP", "text": "一会儿从左边一会儿从右边…"}
+{"ep": "27", "idx": 322, "start": "0:15:23.92", "end": "0:15:26.13", "style": "zhengwen", "actor": "NTP", "text": "那就派G〇ndam出击！"}
+{"ep": "27", "idx": 323, "start": "0:15:26.32", "end": "0:15:27.42", "style": "zhengwen", "actor": "NTP", "text": "出击——怎么可能！"}
+{"ep": "27", "idx": 324, "start": "0:15:27.64", "end": "0:15:28.25", "style": "zhengwen", "actor": "NTP", "text": "那个…"}
+{"ep": "27", "idx": 325, "start": "0:15:28.99", "end": "0:15:29.86", "style": "zhengwen", "actor": "NTP", "text": "那个…！"}
+{"ep": "27", "idx": 326, "start": "0:15:30.27", "end": "0:15:33.39", "style": "zhengwen", "actor": "NTP", "text": "我现在到底在什么地方啊？"}
+{"ep": "27", "idx": 327, "start": "0:15:33.76", "end": "0:15:35.05", "style": "zhengwen", "actor": "NTP", "text": "我已经忍不住了！"}
+{"ep": "27", "idx": 328, "start": "0:15:35.30", "end": "0:15:36.98", "style": "zhengwen", "actor": "NTP", "text": "全舰队全速前进！"}
+{"ep": "27", "idx": 329, "start": "0:15:37.17", "end": "0:15:40.53", "style": "zhengwen", "actor": "NTP", "text": "我要去把敌人的老大揪出来爆扁一顿！"}
+{"ep": "27", "idx": 330, "start": "0:15:40.71", "end": "0:15:42.08", "style": "zhengwen", "actor": "NTP", "text": "不是告诉过你别冲到前面去吗！"}
+{"ep": "27", "idx": 331, "start": "0:15:42.27", "end": "0:15:43.72", "style": "zhengwen", "actor": "NTP", "text": "这里请交给我们吧"}
+{"ep": "27", "idx": 332, "start": "0:15:43.85", "end": "0:15:45.26", "style": "zhengwen", "actor": "NTP", "text": "少废话  给我让开！"}
+{"ep": "27", "idx": 333, "start": "0:15:45.38", "end": "0:15:47.43", "style": "zhengwen", "actor": "NTP", "text": "主将之间应该亲自做个了结！"}
+{"ep": "27", "idx": 334, "start": "0:15:47.70", "end": "0:15:50.00", "style": "zhengwen", "actor": "NTP", "text": "你明明就不知道那队敌人到底在什么地方啊！"}
+{"ep": "27", "idx": 335, "start": "0:15:50.03", "end": "0:15:51.65", "style": "zhengwen", "actor": "NTP", "text": "那当然要我来把他找出来了！"}
+{"ep": "27", "idx": 336, "start": "0:15:51.71", "end": "0:15:52.76", "style": "zhengwen", "actor": "NTP", "text": "笨蛋！快住手！"}
+{"ep": "27", "idx": 337, "start": "0:15:52.93", "end": "0:15:54.28", "style": "zhengwen", "actor": "NTP", "text": "先冷静一下如何？"}
+{"ep": "27", "idx": 338, "start": "0:15:54.48", "end": "0:15:55.77", "style": "zhengwen", "actor": "NTP", "text": "还有  对敌人进行迎击"}
+{"ep": "27", "idx": 339, "start": "0:15:55.78", "end": "0:15:57.93", "style": "zhengwen", "actor": "NTP", "text": "大家都在什么地方啊…？"}
+{"ep": "27", "idx": 340, "start": "0:15:58.02", "end": "0:15:59.14", "style": "zhengwen", "actor": "NTP", "text": "给我让开——！"}
+{"ep": "27", "idx": 341, "start": "0:15:59.23", "end": "0:16:00.56", "style": "zhengwen", "actor": "NTP", "text": "就算想让开我也动不了了啊！"}
+{"ep": "27", "idx": 342, "start": "0:16:01.78", "end": "0:16:02.97", "style": "zhengwen", "actor": "NTP", "text": "这下就输定了…"}
+{"ep": "27", "idx": 343, "start": "0:16:04.17", "end": "0:16:05.56", "style": "zhengwen", "actor": "NTP", "text": "哦！这是怎么回事啊！"}
+{"ep": "27", "idx": 344, "start": "0:16:06.13", "end": "0:16:08.11", "style": "zhengwen", "actor": "NTP", "text": "原来如此  是分舰队啊"}
+{"ep": "27", "idx": 345, "start": "0:16:08.33", "end": "0:16:09.07", "style": "zhengwen", "actor": "NTP", "text": "分舰队？"}
+{"ep": "27", "idx": 346, "start": "0:16:09.45", "end": "0:16:11.52", "style": "zhengwen", "actor": "NTP", "text": "说明书的最后面写了哦"}
+{"ep": "27", "idx": 347, "start": "0:16:11.92", "end": "0:16:14.05", "style": "zhengwen", "actor": "NTP", "text": "可以最多把舰队分散成20支"}
+{"ep": "27", "idx": 348, "start": "0:16:14.28", "end": "0:16:15.65", "style": "zhengwen", "actor": "NTP", "text": "这样有利于侦查"}
+{"ep": "27", "idx": 349, "start": "0:16:16.80", "end": "0:16:19.12", "style": "zhengwen", "actor": "NTP", "text": "但是  操作这么多的舰队同时进行侦查"}
+{"ep": "27", "idx": 350, "start": "0:16:19.49", "end": "0:16:21.27", "style": "zhengwen", "actor": "NTP", "text": "以人类来说是不可能的"}
+{"ep": "27", "idx": 351, "start": "0:16:21.54", "end": "0:16:22.98", "style": "zhengwen", "actor": "NTP", "text": "所以没有人尝试过"}
+{"ep": "27", "idx": 352, "start": "0:16:23.43", "end": "0:16:25.93", "style": "zhengwen", "actor": "NTP", "text": "以人类来说…是吗"}
+{"ep": "27", "idx": 353, "start": "0:16:26.66", "end": "0:16:28.09", "style": "zhengwen", "actor": "NTP", "text": "那  那个…"}
+{"ep": "27", "idx": 354, "start": "0:16:28.54", "end": "0:16:31.43", "style": "zhengwen", "actor": "NTP", "text": "这么用力的敲键盘的话会不会坏掉啊…"}
+{"ep": "27", "idx": 355, "start": "0:16:31.52", "end": "0:16:34.06", "style": "zhengwen", "actor": "NTP", "text": "败北主义者要处以围校庭跑十圈之刑！"}
+{"ep": "27", "idx": 356, "start": "0:16:34.17", "end": "0:16:35.37", "style": "zhengwen", "actor": "NTP", "text": "而且要裸奔！"}
+{"ep": "27", "idx": 357, "start": "0:16:35.53", "end": "0:16:39.39", "style": "zhengwen", "actor": "NTP", "text": "一面大叫「绿色的火星人在追我」一面跑十圈！"}
+{"ep": "27", "idx": 358, "start": "0:16:39.60", "end": "0:16:40.71", "style": "zhengwen", "actor": "NTP", "text": "而且不准叫苦！"}
+{"ep": "27", "idx": 359, "start": "0:16:40.73", "end": "0:16:41.88", "style": "zhengwen", "actor": "NTP", "text": "那个啊…"}
+{"ep": "27", "idx": 360, "start": "0:16:42.24", "end": "0:16:42.82", "style": "zhengwen", "actor": "NTP", "text": "嗯？"}
+{"ep": "27", "idx": 361, "start": "0:16:43.24", "end": "0:16:47.12", "style": "zhengwen", "actor": "NTP", "text": "那个…长门同学？你到底在做什么呢？"}
+{"ep": "27", "idx": 362, "start": "0:16:48.76", "end": "0:16:49.68", "style": "zhengwen", "actor": "NTP", "text": "喂  长门！"}
+{"ep": "27", "idx": 363, "start": "0:16:49.96", "end": "0:16:50.60", "style": "zhengwen", "actor": "NTP", "text": "什么？"}
+{"ep": "27", "idx": 364, "start": "0:16:50.84", "end": "0:16:53.28", "style": "zhengwen", "actor": "NTP", "text": "我说过不许作弊了啊！"}
+{"ep": "27", "idx": 365, "start": "0:16:53.59", "end": "0:16:54.45", "style": "zhengwen", "actor": "NTP", "text": "我没有"}
+{"ep": "27", "idx": 366, "start": "0:16:54.85", "end": "0:16:57.86", "style": "zhengwen", "actor": "NTP", "text": "我并没有做特别的信息操作"}
+{"ep": "27", "idx": 367, "start": "0:16:58.26", "end": "0:17:00.22", "style": "zhengwen", "actor": "NTP", "text": "遵守了你制定的规则"}
+{"ep": "27", "idx": 368, "start": "0:17:00.50", "end": "0:17:01.77", "style": "zhengwen", "actor": "NTP", "text": "是  是吗？"}
+{"ep": "27", "idx": 369, "start": "0:17:02.00", "end": "0:17:05.61", "style": "zhengwen", "actor": "NTP", "text": "做了被称为「作弊」的行为的是电脑研究社那边"}
+{"ep": "27", "idx": 370, "start": "0:17:05.75", "end": "0:17:07.66", "style": "zhengwen", "actor": "NTP", "text": "是他们？怎么回事？"}
+{"ep": "27", "idx": 371, "start": "0:17:08.58", "end": "0:17:11.04", "style": "zhengwen", "actor": "NTP", "text": "他们的侦查模式设定为关闭"}
+{"ep": "27", "idx": 372, "start": "0:17:11.50", "end": "0:17:14.56", "style": "zhengwen", "actor": "NTP", "text": "地图上所有地区…包括我们的位置在内"}
+{"ep": "27", "idx": 373, "start": "0:17:14.60", "end": "0:17:15.84", "style": "zhengwen", "actor": "NTP", "text": "一开始就可以看得一清二楚"}
+{"ep": "27", "idx": 374, "start": "0:17:16.05", "end": "0:17:18.09", "style": "zhengwen", "actor": "NTP", "text": "以长门来说真是容易听懂的说明！"}
+{"ep": "27", "idx": 375, "start": "0:17:19.38", "end": "0:17:21.26", "style": "zhengwen", "actor": "NTP", "text": "我们看不见敌人在什么地方"}
+{"ep": "27", "idx": 376, "start": "0:17:21.41", "end": "0:17:23.17", "style": "zhengwen", "actor": "NTP", "text": "但是他们却可以看到我们吗？"}
+{"ep": "27", "idx": 377, "start": "0:17:23.46", "end": "0:17:24.97", "style": "zhengwen", "actor": "NTP", "text": "怪不得我们赢不了"}
+{"ep": "27", "idx": 378, "start": "0:17:25.17", "end": "0:17:28.85", "style": "zhengwen", "actor": "NTP", "text": "对  我们除了失败之外别无选择"}
+{"ep": "27", "idx": 379, "start": "0:17:29.19", "end": "0:17:30.58", "style": "zhengwen", "actor": "NTP", "text": "我想修正这一点"}
+{"ep": "27", "idx": 380, "start": "0:17:32.44", "end": "0:17:34.52", "style": "zhengwen", "actor": "NTP", "text": "我知道他们耍了滑头"}
+{"ep": "27", "idx": 381, "start": "0:17:34.76", "end": "0:17:36.58", "style": "zhengwen", "actor": "NTP", "text": "但是啊  就算这样"}
+{"ep": "27", "idx": 382, "start": "0:17:36.86", "end": "0:17:39.35", "style": "zhengwen", "actor": "NTP", "text": "如果我们也使用更加阴险的魔法手段来对应"}
+{"ep": "27", "idx": 383, "start": "0:17:39.59", "end": "0:17:41.87", "style": "zhengwen", "actor": "NTP", "text": "结果不就和他们一样了吗？"}
+{"ep": "27", "idx": 384, "start": "0:17:42.19", "end": "0:17:43.13", "style": "zhengwen", "actor": "NTP", "text": "不  还不如他们呢"}
+{"ep": "27", "idx": 385, "start": "0:17:43.52", "end": "0:17:45.87", "style": "zhengwen", "actor": "NTP", "text": "我没有违反你的指示"}
+{"ep": "27", "idx": 386, "start": "0:17:46.08", "end": "0:17:51.27", "style": "zhengwen", "actor": "NTP", "text": "我想在地球现代的技术等级范围内修改程序"}
+{"ep": "27", "idx": 387, "start": "0:17:51.56", "end": "0:17:53.45", "style": "zhengwen", "actor": "NTP", "text": "只是让双方的条件变为对等状态"}
+{"ep": "27", "idx": 388, "start": "0:17:55.04", "end": "0:17:55.86", "style": "zhengwen", "actor": "NTP", "text": "请准许"}
+{"ep": "27", "idx": 389, "start": "0:18:02.13", "end": "0:18:03.77", "style": "zhengwen", "actor": "NTP", "text": "该不会  你想打赢吧？"}
+{"ep": "27", "idx": 390, "start": "0:18:11.23", "end": "0:18:11.95", "style": "zhengwen", "actor": "NTP", "text": "…嘿"}
+{"ep": "27", "idx": 391, "start": "0:18:13.45", "end": "0:18:14.81", "style": "zhengwen", "actor": "NTP", "text": "好  干吧！"}
+{"ep": "27", "idx": 392, "start": "0:18:18.60", "end": "0:18:19.32", "style": "zhengwen", "actor": "NTP", "text": "是吗"}
+{"ep": "27", "idx": 393, "start": "0:18:20.23", "end": "0:18:21.50", "style": "zhengwen", "actor": "NTP", "text": "好了好了"}
+{"ep": "27", "idx": 394, "start": "0:18:21.72", "end": "0:18:24.50", "style": "zhengwen", "actor": "NTP", "text": "被分舰队侦查到的时候虽然吓了一大跳"}
+{"ep": "27", "idx": 395, "start": "0:18:24.69", "end": "0:18:26.05", "style": "zhengwen", "actor": "NTP", "text": "但我们还是稳操胜券"}
+{"ep": "27", "idx": 396, "start": "0:18:26.31", "end": "0:18:28.47", "style": "zhengwen", "actor": "NTP", "text": "不管怎么说  敌人的位置都能看得一清二楚嘛"}
+{"ep": "27", "idx": 397, "start": "0:18:29.00", "end": "0:18:30.56", "style": "zhengwen", "actor": "NTP", "text": "差不多该做最后的处理了"}
+{"ep": "27", "idx": 398, "start": "0:18:30.90", "end": "0:18:31.98", "style": "zhengwen", "actor": "NTP", "text": "各个击破！"}
+{"ep": "27", "idx": 399, "start": "0:18:32.21", "end": "0:18:34.24", "style": "zhengwen", "actor": "NTP", "text": "对SOS团施以血祭！"}
+{"ep": "27", "idx": 400, "start": "0:18:36.29", "end": "0:18:36.87", "style": "zhengwen", "actor": "NTP", "text": "咦？"}
+{"ep": "27", "idx": 401, "start": "0:18:37.36", "end": "0:18:39.34", "style": "zhengwen", "actor": "NTP", "text": "侦查模式被设置成开启了！"}
+{"ep": "27", "idx": 402, "start": "0:18:39.59", "end": "0:18:41.45", "style": "zhengwen", "actor": "NTP", "text": "被敌舰队锁定了！"}
+{"ep": "27", "idx": 403, "start": "0:18:42.87", "end": "0:18:44.59", "style": "zhengwen", "actor": "NTP", "text": "从左侧受到了攻击！"}
+{"ep": "27", "idx": 404, "start": "0:18:45.17", "end": "0:18:47.13", "style": "zhengwen", "actor": "NTP", "text": "无法掌握敌军的动向！"}
+{"ep": "27", "idx": 405, "start": "0:18:47.47", "end": "0:18:50.82", "style": "zhengwen", "actor": "NTP", "text": "你们在做什么！快把侦查模式关掉！"}
+{"ep": "27", "idx": 406, "start": "0:18:50.92", "end": "0:18:55.01", "style": "zhushi", "actor": "NTP", "text": "（连接被拒绝  完全锁定  不可能  无法改变）"}
+{"ep": "27", "idx": 407, "start": "0:18:50.95", "end": "0:18:53.28", "style": "zhengwen", "actor": "NTP", "text": "不行！被锁定在开启上了！"}
+{"ep": "27", "idx": 408, "start": "0:18:53.46", "end": "0:18:55.01", "style": "zhengwen", "actor": "NTP", "text": "并且拒绝我们的连接！"}
+{"ep": "27", "idx": 409, "start": "0:18:55.12", "end": "0:18:56.44", "style": "zhengwen", "actor": "NTP", "text": "怎  怎么可能…"}
+{"ep": "27", "idx": 410, "start": "0:18:56.64", "end": "0:18:57.52", "style": "zhengwen", "actor": "NTP", "text": "找到敌人了！"}
+{"ep": "27", "idx": 411, "start": "0:18:57.73", "end": "0:18:59.58", "style": "zhengwen", "actor": "NTP", "text": "开火开火开火！"}
+{"ep": "27", "idx": 412, "start": "0:19:02.97", "end": "0:19:03.99", "style": "zhengwen", "actor": "NTP", "text": "坠落吧  蚊子！"}
+{"ep": "27", "idx": 413, "start": "0:19:04.12", "end": "0:19:06.19", "style": "zhengwen", "actor": "NTP", "text": "喂！阿虚  那是我的猎物！"}
+{"ep": "27", "idx": 414, "start": "0:19:06.54", "end": "0:19:08.36", "style": "zhengwen", "actor": "NTP", "text": "敌舰队有2支被完全歼灭了"}
+{"ep": "27", "idx": 415, "start": "0:19:08.86", "end": "0:19:10.62", "style": "zhengwen", "actor": "NTP", "text": "其他舰队也混乱了"}
+{"ep": "27", "idx": 416, "start": "0:19:11.06", "end": "0:19:13.34", "style": "zhengwen", "actor": "NTP", "text": "由于长门同学的分舰队持续进行骚扰"}
+{"ep": "27", "idx": 417, "start": "0:19:13.61", "end": "0:19:15.46", "style": "zhengwen", "actor": "NTP", "text": "把局势一口气逆转了呢"}
+{"ep": "27", "idx": 418, "start": "0:19:16.36", "end": "0:19:18.44", "style": "zhengwen", "actor": "NTP", "text": "但是敌人主将还没有被消灭哦"}
+{"ep": "27", "idx": 419, "start": "0:19:18.84", "end": "0:19:19.98", "style": "zhengwen", "actor": "NTP", "text": "要怎么消灭它呢？"}
+{"ep": "27", "idx": 420, "start": "0:19:20.38", "end": "0:19:21.23", "style": "zhengwen", "actor": "NTP", "text": "没有问题"}
+{"ep": "27", "idx": 421, "start": "0:19:21.40", "end": "0:19:22.41", "style": "zhengwen", "actor": "NTP", "text": "从那边攻击"}
+{"ep": "27", "idx": 422, "start": "0:19:24.74", "end": "0:19:25.46", "style": "zhengwen", "actor": "NTP", "text": "可恶！"}
+{"ep": "27", "idx": 423, "start": "0:19:26.02", "end": "0:19:28.20", "style": "zhengwen", "actor": "NTP", "text": "哦…他跑到了个正好的位置上呢"}
+{"ep": "27", "idx": 424, "start": "0:19:28.54", "end": "0:19:29.74", "style": "zhengwen", "actor": "NTP", "text": "已经是瓮中之鳖了"}
+{"ep": "27", "idx": 425, "start": "0:19:30.16", "end": "0:19:32.18", "style": "zhengwen", "actor": "NTP", "text": "那个…要攻击这个是吗？"}
+{"ep": "27", "idx": 426, "start": "0:19:32.57", "end": "0:19:34.93", "style": "zhengwen", "actor": "NTP", "text": "虽然不大明白是怎么回事  但我们做到了！"}
+{"ep": "27", "idx": 427, "start": "0:19:35.74", "end": "0:19:37.43", "style": "zhengwen", "actor": "NTP", "text": "全舰队全力射击！"}
+{"ep": "27", "idx": 428, "start": "0:19:37.63", "end": "0:19:40.54", "style": "zhengwen", "actor": "NTP", "text": "用地狱的业火烧尽敌人主将的舰队吧！"}
+{"ep": "27", "idx": 429, "start": "0:19:48.57", "end": "0:19:49.24", "style": "zhengwen", "actor": "NTP", "text": "别放跑他！"}
+{"ep": "27", "idx": 430, "start": "0:20:02.32", "end": "0:20:05.82", "style": "zhengwen", "actor": "NTP", "text": "光  光荣归于电脑研究社——！"}
+{"ep": "27", "idx": 431, "start": "0:20:12.44", "end": "0:20:13.26", "style": "zhengwen", "actor": "NTP", "text": "我们输了"}
+{"ep": "27", "idx": 432, "start": "0:20:13.42", "end": "0:20:14.65", "style": "zhengwen", "actor": "NTP", "text": "彻彻底底地输了"}
+{"ep": "27", "idx": 433, "start": "0:20:14.97", "end": "0:20:16.32", "style": "zhengwen", "actor": "NTP", "text": "我们毫不狡辩地承认了"}
+{"ep": "27", "idx": 434, "start": "0:20:16.59", "end": "0:20:18.34", "style": "zhengwen", "actor": "NTP", "text": "对不起  我道歉"}
+{"ep": "27", "idx": 435, "start": "0:20:18.98", "end": "0:20:20.26", "style": "zhengwen", "actor": "NTP", "text": "但是真没想到"}
+{"ep": "27", "idx": 436, "start": "0:20:20.69", "end": "0:20:24.21", "style": "zhengwen", "actor": "NTP", "text": "竟然能在游戏进行中改写程序的内核…"}
+{"ep": "27", "idx": 437, "start": "0:20:24.77", "end": "0:20:26.15", "style": "zhengwen", "actor": "NTP", "text": "难以置信…"}
+{"ep": "27", "idx": 438, "start": "0:20:26.57", "end": "0:20:28.04", "style": "zhengwen", "actor": "NTP", "text": "你在那里罗嗦什么啊？"}
+{"ep": "27", "idx": 439, "start": "0:20:28.35", "end": "0:20:30.79", "style": "zhengwen", "actor": "NTP", "text": "还有啊  约定你还记得吧？"}
+{"ep": "27", "idx": 440, "start": "0:20:30.97", "end": "0:20:33.29", "style": "zhengwen", "actor": "NTP", "text": "这些电脑全都是我们的了！"}
+{"ep": "27", "idx": 441, "start": "0:20:33.44", "end": "0:20:34.95", "style": "zhengwen", "actor": "NTP", "text": "可不要说你已经忘记了哦"}
+{"ep": "27", "idx": 442, "start": "0:20:35.78", "end": "0:20:36.82", "style": "zhengwen", "actor": "NTP", "text": "那个  问你一下"}
+{"ep": "27", "idx": 443, "start": "0:20:37.88", "end": "0:20:39.66", "style": "zhengwen", "actor": "NTP", "text": "那到底是谁做的？"}
+{"ep": "27", "idx": 444, "start": "0:20:40.20", "end": "0:20:43.09", "style": "zhengwen", "actor": "NTP", "text": "那个足以打遍全世界的超级黑客…"}
+{"ep": "27", "idx": 445, "start": "0:20:44.16", "end": "0:20:46.47", "style": "zhengwen", "actor": "NTP", "text": "不  我大概可以想到…"}
+{"ep": "27", "idx": 446, "start": "0:20:50.35", "end": "0:20:51.45", "style": "zhengwen", "actor": "NTP", "text": "我有事情想和您谈一下"}
+{"ep": "27", "idx": 447, "start": "0:20:51.59", "end": "0:20:52.83", "style": "zhengwen", "actor": "NTP", "text": "如果您什么时候有时间的话"}
+{"ep": "27", "idx": 448, "start": "0:20:53.37", "end": "0:20:55.52", "style": "zhengwen", "actor": "NTP", "text": "能不能来参加一下电脑研究社的社团活动？"}
+{"ep": "27", "idx": 449, "start": "0:20:55.81", "end": "0:20:56.61", "style": "zhengwen", "actor": "NTP", "text": "请务必光临指导！"}
+{"ep": "27", "idx": 450, "start": "0:20:56.90", "end": "0:20:58.58", "style": "zhengwen", "actor": "NTP", "text": "怎么突然就开始挖角了…"}
+{"ep": "27", "idx": 451, "start": "0:20:58.64", "end": "0:20:59.48", "style": "zhengwen", "actor": "NTP", "text": "等一下等一下"}
+{"ep": "27", "idx": 452, "start": "0:20:59.62", "end": "0:21:01.69", "style": "zhengwen", "actor": "NTP", "text": "不许随便把有希借走！"}
+{"ep": "27", "idx": 453, "start": "0:21:01.86", "end": "0:21:05.60", "style": "zhengwen", "actor": "NTP", "text": "听好了  她可是SOS团不可欠缺的沉默寡言角色！"}
+{"ep": "27", "idx": 454, "start": "0:21:05.76", "end": "0:21:07.81", "style": "zhengwen", "actor": "NTP", "text": "是我最先看中她的！"}
+{"ep": "27", "idx": 455, "start": "0:21:08.28", "end": "0:21:09.14", "style": "zhengwen", "actor": "NTP", "text": "不  你先等一下"}
+{"ep": "27", "idx": 456, "start": "0:21:11.90", "end": "0:21:14.97", "style": "zhengwen", "actor": "NTP", "text": "长门也并不是经常有感兴趣的东西的"}
+{"ep": "27", "idx": 457, "start": "0:21:15.41", "end": "0:21:19.71", "style": "zhengwen", "actor": "NTP", "text": "我看着她敲打键盘的时候  有种她感到很快乐的感觉"}
+{"ep": "27", "idx": 458, "start": "0:21:20.92", "end": "0:21:25.04", "style": "zhengwen", "actor": "NTP", "text": "一直监视着春日  长门一定也很累了"}
+{"ep": "27", "idx": 459, "start": "0:21:25.97", "end": "0:21:31.42", "style": "zhengwen", "actor": "NTP", "text": "外星人制作的有机人型介面有的时候也需要转换一下心情"}
+{"ep": "27", "idx": 460, "start": "0:21:33.77", "end": "0:21:34.86", "style": "zhengwen", "actor": "NTP", "text": "就照你的意思去做吧"}
+{"ep": "27", "idx": 461, "start": "0:21:35.43", "end": "0:21:39.95", "style": "zhengwen", "actor": "NTP", "text": "想去的时候  就到隔壁去玩电脑好了"}
+{"ep": "27", "idx": 462, "start": "0:21:44.91", "end": "0:21:45.60", "style": "zhengwen", "actor": "NTP", "text": "是吗…"}
+{"ep": "27", "idx": 463, "start": "0:21:48.72", "end": "0:21:49.68", "style": "zhengwen", "actor": "NTP", "text": "…偶尔去一下的话"}
+{"ep": "27", "idx": 464, "start": "0:21:49.86", "end": "0:21:50.57", "style": "zhengwen", "actor": "NTP", "text": "真的吗？"}
+{"ep": "27", "idx": 465, "start": "0:21:50.77", "end": "0:21:52.39", "style": "zhengwen", "actor": "NTP", "text": "啊～太感谢了！"}
+{"ep": "27", "idx": 466, "start": "0:21:52.43", "end": "0:21:53.12", "style": "zhengwen", "actor": "NTP", "text": "就是这样了"}
+{"ep": "27", "idx": 467, "start": "0:21:53.55", "end": "0:21:55.51", "style": "zhengwen", "actor": "NTP", "text": "算了…有希愿意的话我也没关系啦"}
+{"ep": "27", "idx": 468, "start": "0:21:56.00", "end": "0:21:56.93", "style": "zhengwen", "actor": "NTP", "text": "啊  还有"}
+{"ep": "27", "idx": 469, "start": "0:21:57.25", "end": "0:21:57.75", "style": "zhengwen", "actor": "NTP", "text": "咦？"}
+{"ep": "27", "idx": 470, "start": "0:21:57.90", "end": "0:21:59.68", "style": "zhengwen", "actor": "NTP", "text": "你们这些残兵败将"}
+{"ep": "27", "idx": 471, "start": "0:21:59.81", "end": "0:22:02.85", "style": "zhengwen", "actor": "NTP", "text": "必须完全服从胜利者的要求！"}
+{"ep": "27", "idx": 472, "start": "0:22:03.04", "end": "0:22:03.79", "style": "zhengwen", "actor": "NTP", "text": "怎么…！"}
+{"ep": "27", "idx": 473, "start": "0:22:03.95", "end": "0:22:07.92", "style": "zhengwen", "actor": "NTP", "text": "你们所有人今后要对我誓以绝对忠诚！"}
+{"ep": "27", "idx": 474, "start": "0:22:08.13", "end": "0:22:10.00", "style": "zhengwen", "actor": "NTP", "text": "嗯  我不会亏待你们的"}
+{"ep": "27", "idx": 475, "start": "0:22:10.39", "end": "0:22:14.00", "style": "zhengwen", "actor": "NTP", "text": "如果努力的话  也可以提拔你们做正式团员哦！"}
+{"ep": "27", "idx": 476, "start": "0:22:14.34", "end": "0:22:17.28", "style": "zhengwen", "actor": "NTP", "text": "古泉  赶快去准备  要签署文件！"}
+{"ep": "27", "idx": 477, "start": "0:22:17.46", "end": "0:22:19.76", "style": "zhengwen", "actor": "NTP", "text": "遵命  阁下"}

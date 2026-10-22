@@ -1,0 +1,6 @@
+# 本地杂项
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
